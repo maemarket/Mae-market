@@ -1,0 +1,59 @@
+
+.form{
+	position: relative;
+	width: 500px;
+	height: 680px;
+	padding-left: 20px;
+	padding-top: 15px;
+	background-color: #7FB3D5;
+	border-radius: 20px;
+	margin: auto;
+}
+
+body{
+	  background-image: url('bg.jpg');
+
+}
+
+
+input[type=text],[type=email]{
+	width: 470px;
+	height: 35px;
+	font: 14px normal normal uppercase helvetica, arial, serif;
+
+}
+
+textarea{
+	width: 470px;
+	height: 110px;
+	font: 14px normal normal uppercase helvetica, arial, serif;
+
+
+}
+
+input[type=submit]{
+	position: relative;
+	width: 150px;
+	height: 40px;
+	border-radius: 20px;
+	margin-left: 150px;
+	border: 0px;
+	background-color: #2471A3;
+
+
+}
+
+p{
+	text-shadow: 0 1px 0 #fff;
+	font-size: 24px;
+}
+
+
+label{
+	margin: 11px 20px 0 0;
+	font-size: 16px;
+	color: #000;
+	text-transform: uppercase;
+
+
+}
