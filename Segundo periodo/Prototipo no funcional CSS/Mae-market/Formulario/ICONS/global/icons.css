@@ -1,0 +1,105 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('icomoon.eot?m7ppqy');
+  src:  url('icomoon.eot?m7ppqy#iefix') format('embedded-opentype'),
+    url('icomoon.ttf?m7ppqy') format('truetype'),
+    url('icomoon.woff?m7ppqy') format('woff'),
+    url('icomoon.svg?m7ppqy#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-twitter:before {
+  content: "\e919";
+}
+.icon-facebook:before {
+  content: "\e909";
+}
+.icon-instagram:before {
+  content: "\e911";
+}
+.icon-phones:before {
+  content: "\e912";
+}
+.icon-add-circle:before {
+  content: "\e900";
+}
+.icon-x:before {
+  content: "\e901";
+}
+.icon-edit-pencil:before {
+  content: "\e902";
+}
+.icon-reduce-circle:before {
+  content: "\e903";
+}
+.icon-category:before {
+  content: "\e913";
+}
+.icon-arrow_down:before {
+  content: "\e904";
+}
+.icon-computers:before {
+  content: "\e914";
+}
+.icon-shopping-cart:before {
+  content: "\e905";
+}
+.icon-free-shipping:before {
+  content: "\e906";
+}
+.icon-ontheway:before {
+  content: "\e907";
+}
+.icon-delivered:before {
+  content: "\e910";
+}
+.icon-profile:before {
+  content: "\e908";
+}
+.icon-help:before {
+  content: "\e915";
+}
+.icon-history:before {
+  content: "\e916";
+}
+.icon-inprogress:before {
+  content: "\e90a";
+}
+.icon-search:before {
+  content: "\e90b";
+}
+.icon-settings:before {
+  content: "\e90c";
+}
+.icon-main:before {
+  content: "\e90d";
+}
+.icon-hide:before {
+  content: "\e90e";
+}
+.icon-filter_list:before {
+  content: "\e90f";
+}
+.icon-index:before {
+  content: "\e917";
+}
+.icon-logout:before {
+  content: "\e918";
+}
